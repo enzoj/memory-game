@@ -16,7 +16,6 @@ body {
   margin: auto;
   display: flex;
   flex-wrap: wrap;
-  border: 2px solid lime;
   perspective: 1000px;
 }
 
